@@ -1,3 +1,10 @@
+"""
+Inventory
+Tomasz Bujakowski
+Codecool Kraków 2016
+"""
+
+
 import csv
 
 inv = {'rope': 1,
